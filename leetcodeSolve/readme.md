@@ -10,3 +10,11 @@
 # string
 
 # 1. https://leetcode.com/problems/integer-to-roman/description/
+
+# 2. https://leetcode.com/problems/minimum-window-substring/description/
+
+# 3. https://leetcode.com/problems/reverse-words-in-a-string/
+
+# 4. https://leetcode.com/problems/string-to-integer-atoi/description/
+
+# 5. https://leetcode.com/problems/zigzag-conversion/description/
