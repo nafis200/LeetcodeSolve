@@ -18,3 +18,9 @@
 # 4. https://leetcode.com/problems/string-to-integer-atoi/description/
 
 # 5. https://leetcode.com/problems/zigzag-conversion/description/
+
+# BFS + DFS
+
+# 1. https://neetcode.io/problems/foreign-dictionary/question
+
+# 2. https://leetcode.com/problems/evaluate-division/description/
