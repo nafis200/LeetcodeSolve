@@ -28,3 +28,9 @@
 # 3. https://leetcode.com/problems/flood-fill/description/
 
 # 4. https://leetcode.com/problems/rotting-oranges/description/
+
+# 5. https://leetcode.com/problems/snakes-and-ladders/description/
+
+# 6. https://leetcode.com/problems/reconstruct-itinerary/
+
+# 7. https://leetcode.com/problems/shortest-path-in-binary-matrix/description/
