@@ -34,3 +34,7 @@
 # 6. https://leetcode.com/problems/reconstruct-itinerary/
 
 # 7. https://leetcode.com/problems/shortest-path-in-binary-matrix/description/
+
+# 8. https://leetcode.com/problems/swim-in-rising-water/description/.
+
+# https://leetcode.com/problems/word-ladder/description/(Time complexity)
