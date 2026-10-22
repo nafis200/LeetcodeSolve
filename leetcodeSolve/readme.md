@@ -37,4 +37,9 @@
 
 # 8. https://leetcode.com/problems/swim-in-rising-water/description/.
 
-# https://leetcode.com/problems/word-ladder/description/(Time complexity)
+# 9. https://leetcode.com/problems/word-ladder/description/(Time complexity)
+
+
+# Dynamic Programming
+
+# 1. https://leetcode.com/problems/burst-balloons/description/
