@@ -43,3 +43,7 @@
 # Dynamic Programming
 
 # 1. https://leetcode.com/problems/burst-balloons/description/
+
+# 2. https://leetcode.com/problems/combination-sum-iv/
+
+# 3. https://leetcode.com/problems/decode-ways/description/
