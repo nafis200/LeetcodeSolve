@@ -49,3 +49,5 @@
 # 3. https://leetcode.com/problems/decode-ways/description/
 
 # 4. https://leetcode.com/problems/distinct-subsequences/
+
+# 5. https://leetcode.com/problems/longest-increasing-subsequence/description/
