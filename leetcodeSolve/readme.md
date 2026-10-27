@@ -55,3 +55,7 @@
 # 6. https://leetcode.com/problems/maximum-product-subarray/
 
 # 7. https://leetcode.com/problems/minimum-path-sum/description/
+
+# 8. https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/
+
+# 9. https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/
