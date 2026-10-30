@@ -63,3 +63,5 @@
 # 10. https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/
 
 # 11. https://leetcode.com/problems/interleaving-string/
+
+# 12. https://leetcode.com/problems/maximum-profit-in-job-scheduling
