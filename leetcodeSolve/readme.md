@@ -1,4 +1,6 @@
 
+# Array
+
 # 1. https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/
 
 # 2. https://leetcode.com/problems/gas-station/
@@ -7,7 +9,7 @@
 
 # 4. https://leetcode.com/problems/majority-element/
 
-# string
+# String
 
 # 1. https://leetcode.com/problems/integer-to-roman/description/
 
@@ -65,3 +67,9 @@
 # 11. https://leetcode.com/problems/interleaving-string/
 
 # 12. https://leetcode.com/problems/maximum-profit-in-job-scheduling
+
+# 13. https://leetcode.com/problems/palindromic-substrings/
+
+# 14. https://leetcode.com/problems/target-sum/
+
+# 15. https://leetcode.com/problems/word-break/description/
