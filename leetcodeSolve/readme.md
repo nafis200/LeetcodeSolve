@@ -82,3 +82,9 @@
 # 2. https://leetcode.com/problems/balanced-binary-tree/description/
 
 # 3. https://leetcode.com/problems/binary-search-tree-iterator/description/
+
+# 4. https://leetcode.com/problems/binary-tree-maximum-path-sum/description/
+
+# 5. https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/
+
+# 6. https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/
