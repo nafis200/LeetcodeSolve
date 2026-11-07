@@ -88,3 +88,5 @@
 # 5. https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/
 
 # 6. https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/
+
+# 7. https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
