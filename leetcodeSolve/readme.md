@@ -90,3 +90,9 @@
 # 6. https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/
 
 # 7. https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+
+# 8. https://leetcode.com/problems/count-good-nodes-in-binary-tree/description/
+
+# 9. https://leetcode.com/problems/diameter-of-binary-tree/description/
+
+# 10. https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/
