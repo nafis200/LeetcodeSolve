@@ -104,3 +104,9 @@
 # 13. https://leetcode.com/problems/minimum-absolute-difference-in-bst/
 
 # 14. https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/
+
+# 15. https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/
+
+# 16. https://leetcode.com/problems/sum-of-left-leaves/description/
+
+# 17. https://leetcode.com/problems/validate-binary-search-tree/description/
