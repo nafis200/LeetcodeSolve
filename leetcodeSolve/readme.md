@@ -110,3 +110,11 @@
 # 16. https://leetcode.com/problems/sum-of-left-leaves/description/
 
 # 17. https://leetcode.com/problems/validate-binary-search-tree/description/
+
+# Linked List
+
+# 1. https://leetcode.com/problems/copy-list-with-random-pointer/description/
+
+# 2. https://leetcode.com/problems/delete-node-in-a-linked-list/description/
+
+# 3. https://leetcode.com/problems/intersection-of-two-linked-lists/
