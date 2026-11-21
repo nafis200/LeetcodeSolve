@@ -120,3 +120,7 @@
 # 3. https://leetcode.com/problems/intersection-of-two-linked-lists/
 
 # 4. https://leetcode.com/problems/merge-k-sorted-lists/description/
+
+# 5. https://leetcode.com/problems/odd-even-linked-list
+
+# 6. https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
