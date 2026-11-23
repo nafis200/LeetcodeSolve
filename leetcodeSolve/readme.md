@@ -124,3 +124,9 @@
 # 5. https://leetcode.com/problems/odd-even-linked-list
 
 # 6. https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/
+
+# 7. https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/
+
+# 8. https://leetcode.com/problems/sort-list/description/
+
+# 9. https://leetcode.com/problems/reverse-linked-list-ii/description/
