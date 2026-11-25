@@ -130,3 +130,11 @@
 # 8. https://leetcode.com/problems/sort-list/description/
 
 # 9. https://leetcode.com/problems/reverse-linked-list-ii/description/
+
+# BackTracking
+
+# 1. https://leetcode.com/problems/combination-sum (Time Complexity)
+
+# 2. https://leetcode.com/problems/n-queens/description/
+
+# 3. Permutation Time complexity 
